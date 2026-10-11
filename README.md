@@ -1,10 +1,5 @@
 # Agentic-AI-submission
-assignment 1 zapier:
-
-
-
-
-
+assignment 1 zapier: auto mail replier
 
 assignment 2 Langflow chatbot:
 Machine learning/deep learning tutor chatbot
